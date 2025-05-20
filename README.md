@@ -1,2 +1,2 @@
 # jwt-token-implementation
-JWT Token i
+JWT token implementation for authentication
